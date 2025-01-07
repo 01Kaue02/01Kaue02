@@ -1,6 +1,15 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Kaue
+About Me
+Hello! 👋
 
+I currently work at a metalworking company as a production assistant, but my focus is on software development. I am a student of Systems Analysis and Development (ADS) at UNIP, and I am currently in my second semester of the course.
+
+I started my programming journey with HTML and CSS, having already completed several practical projects. My next goal is to start studying JavaScript to expand my knowledge and skills.
+
+I have a strong passion for front-end development and I believe this is the area where I will build my career. I am dedicating myself to entering the tech industry, and with continuous effort and learning, I am confident I will achieve this goal.
+
+I currently live in São José do Rio Preto, São Paulo, and I am looking for opportunities that will allow me to grow as a developer and apply my knowledge in practice.
 <!--
 **01Kaue02/01Kaue02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
